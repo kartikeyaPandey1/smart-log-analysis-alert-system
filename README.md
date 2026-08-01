@@ -32,11 +32,11 @@ The **Smart Log Analysis & Alert System** automates this process by extracting s
 
 # 🏗 System Architecture
 
-```
+
 <img width="1536" height="1024" alt="system architecture" src="https://github.com/user-attachments/assets/647607b4-6a51-4887-a902-344b64a9fac3" />
 
         
-```
+
 
 ---
 
