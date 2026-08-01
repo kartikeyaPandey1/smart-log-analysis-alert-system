@@ -33,36 +33,9 @@ The **Smart Log Analysis & Alert System** automates this process by extracting s
 # 🏗 System Architecture
 
 ```
-                +----------------------+
-                |   Spring Boot Logs   |
-                +----------+-----------+
-                           |
-                           |
-                    Upload Log File
-                           |
-                           ▼
-                +----------------------+
-                |   Streamlit Dashboard |
-                +----------+-----------+
-                           |
-                           |
-                           ▼
-                +----------------------+
-                |     FastAPI Backend   |
-                +----------+-----------+
-                           |
-          +----------------+----------------+
-          |                                 |
-          ▼                                 ▼
-    Log Parser                      PostgreSQL Database
-          |                                 |
-          +---------------+-----------------+
-                          |
-                          ▼
-             Analytics & AI Insights Engine
-                          |
-                          ▼
-                Interactive Dashboard
+<img width="1536" height="1024" alt="system architecture" src="https://github.com/user-attachments/assets/647607b4-6a51-4887-a902-344b64a9fac3" />
+
+        
 ```
 
 ---
